@@ -1,0 +1,82 @@
+.container {
+	margin: 0 auto;
+	width: 960px;}
+	
+body{ 
+    font-family:"LucidaGrande","LucidaSansUnicode",Verdana, sans-serif; 
+	line-height:1.6; }
+	
+	.place h2{ 
+	border-bottom:1px dashed #B0E0E6; 
+	margin:0; 
+	}
+	
+	.place{ 
+	border-color:#CCC #999 #999 #CCC; 
+	border:1px solid #000000; 
+	margin-bottom:20px; 
+	padding:10px; }
+	
+	body{ 
+	background: #E0FFFF url(images/img.01); 
+	font-family:"Lucida Grande","Lucida Sans Unicode", Verdana, 
+	  sans-serif; 
+	line-height:1.6; }
+	
+	.place{ 
+	background-color:#FFF; 
+	border:1pxsolid#000000; 
+	border-color:#CCC#999#999#CCC; 
+	margin-bottom:20px; 
+	padding:10px; }
+
+h1 { 
+  color:	#20B2AA; 
+  text-decoration:none; 
+}
+
+.place img {
+border: 1px solid #000000;	
+float: left;
+margin: 10px 10px 0 0;
+padding: 2px;
+}
+
+.clear {
+clear: both;
+}	
+
+footer {
+font-size: 12px;
+text-align: center;
+}
+.sidenote {
+background-color: #FFFBE4;
+border: 1px solid #000000;
+padding: 10px;
+}
+.sidenote h3 {
+font-size: 16px;
+margin-top: 0;
+}
+.sidenote ol {
+font-size: 14px;
+}
+
+.places {
+float: left;
+width: 660px;
+}
+
+.sidenote {
+background-color: #FFFFFF;
+border: 1px solid #a9a9a9;
+float: right;
+padding: 8px;
+width: 260px;
+margin-bottom: 20px;
+}
+
+#topo{
+	margin-top: 145px;
+}
